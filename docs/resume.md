@@ -10,9 +10,10 @@ Microsoft .NET, C#, Node.js, Angular, Typescript, JavaScript, HTML, CSS, MS SQL 
 
 ### Experience
 ---
-***January 2018 - Present***
-**Senior Software Engineer/Team Lead**
-**CPA Global**
+***January 2018 - Present
+***
+**Senior Software Engineer/Team Lead
+CPA Global**
 
 _Jan 2018 - May 2020_: Hired to build a team of near-shore developers from Costa Rica and bring a product to market that was being handed over from developers in Linköping, Sweden. The application was written with Microsoft WebApi and SQL Server on the backend with an Angular frontend and hosted in Microsoft Azure. I served as scrum master and worked closely with product management. Our team was able to launch on time and deliver a quality product that was received well and immediately became mission critical. Responsible for leading ongoing development and support until June 2020.
 
