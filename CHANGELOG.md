@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.0.0...v1.1.0) (2022-05-27)
+
+
+### Features
+
+* add LinkedIn badge ([625cf65](https://github.com/rbseaver/rbseaver.github.io/commit/625cf65837347a704ee61341b7fcd36d3ef67ba4))
+
 ## 1.0.0 (2022-05-27)
 
 
