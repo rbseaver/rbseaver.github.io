@@ -1,6 +1,6 @@
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-# Rob Seaver \| Software Engineer
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rbseaver" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rbseaver?trk=profile-badge">Rob Seaver</a></div>
+              
 
 ## Summary
 
@@ -79,5 +79,4 @@ Duties included troubleshooting customers' PCs, on-site network maintenance, and
 
 ###### For more information, please visit https://www.linkedin.com/in/rbseaver/
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rbseaver" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rbseaver?trk=profile-badge">Rob Seaver</a></div>
               
