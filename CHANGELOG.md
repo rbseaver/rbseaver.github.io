@@ -1,16 +1,23 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+
+## [1.2.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.1.0...v1.2.0) (2025-04-24)
+
+### Features
+
+* update theme to minimal ([78fc9a9](https://github.com/rbseaver/rbseaver.github.io/commit/78fc9a967acb52f5c4c5ae2d0770983c5c1e7304))
+* remove LinkedIn badge for now
+* add more information to home page
+* add a projects page
 
 ## [1.1.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.0.0...v1.1.0) (2022-05-27)
-
 
 ### Features
 
 * add LinkedIn badge ([625cf65](https://github.com/rbseaver/rbseaver.github.io/commit/625cf65837347a704ee61341b7fcd36d3ef67ba4))
 
 ## 1.0.0 (2022-05-27)
-
 
 ### Features
 
