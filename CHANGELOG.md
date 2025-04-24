@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.3.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.2.0...v1.3.0) (2025-04-24)
+
+
+### Features
+
+* add new section about kratom ([04ef2a0](https://github.com/rbseaver/rbseaver.github.io/commit/04ef2a0c6efdc4a38f040730e2d32120c28ba7ee))
+
 ## [1.2.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.1.0...v1.2.0) (2025-04-24)
 
 ### Features
