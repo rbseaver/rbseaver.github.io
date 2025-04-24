@@ -1,0 +1,35 @@
+# Kratom
+
+## What is Kratom?
+
+Kratom is a plant that has been used for centuries in Southeast Asia for its stimulant and sedative properties. It is derived from the leaves of the Mitragyna speciosa tree, which is native to countries like Thailand, Malaysia, and Indonesia. The leaves contain compounds called alkaloids, which interact with the body's opioid receptors to produce various effects.
+
+## Stimulant *and* Sedative Effects? WTF?
+
+Indeed. At higher doses, it can act as a sedative, and at lower doses, it can act as a stimulant. This makes it helpful for a variety of conditions.
+
+## You do drugs, Rob?
+
+Only if you classify caffeine as a drug. It technically is, but you'd be hard-pressed to find someone who drinks coffee refer to themselves as a drug user. In fact, coffee and kratom are in the same family of plants, the Rubiaceae family.
+
+## Why do you use it?
+
+I discovered it about a dozen years ago. If I'm being honest, I was looking for something to help with anxiety and depression because I'd grown tired of the range of effects I experienced from antidepressants. I sent to the nearest headshop, and had no idea what I was looking for, but one of the helpful employees pointed me to this green powdery thing called kratom. That evening when I got home, I took a teaspoon of it with some water. After about 30 minutes, I admittedly experienced a wave of euphoria, which turned into energy. The energy boost was unmistakable, and I knew that this would help me get through the day without falling asleep. It was like night and day. Kratom became part of my morning and afternoon routines, and I was &mdash; within days &mdash; a drastically better father, husband, and employee. I actually wanted to *do things* again, like go for walks and play kickball in the backyard with my son. Prior to that, I was simply existing, and hoping to stay awake during the day. It's twelve years later, and I still drink kratom every day, usually mixed in to a peppermint tea. I no longer experience euphoria, but I do notice on days when I have less that I'm quite lethargic &mdash; similar to going through caffeine withdrawal. My most recent bloodwork from earlier this year came back fine, and I remain healthy and fairly active. I won't say that kratom saved my life, but it certainly improved it by leaps and bounds.
+
+## Why write about it?
+
+Unfortunately, kratom is not legal in all states, and states where it *is* legal regularly try to ban it. I want to help educate people about it, and help them understand that it's not a drug like heroin or cocaine. It's a plant that has been used for centuries, and is not addictive in the same way that opioids are. I also want to help people understand that it's not a miracle cure, and should be used responsibly. I hope that by sharing my story, I can help others who may be struggling with similar issues. Veterans often consume kratom for the pain relief it provides, without the dangerous affects of opioids. Some people have even used kratom to help them ween off of opioids. There are legitimate benefits to it, and thousands of people who consume it daily without issues.
+
+It's worth noting that in 2016, the DEA announced its attempt to schedule Kratom as a Schedule I drug, which would have made it illegal to possess or use. This effort was met with widespread backlash from the kratom community, and the DEA ultimately withdrew its proposal. This was a testament to the passion and dedication of the kratom community, and showed just how many people have benefitted from kratom. Sadly, the FDA has continued to push for kratom to be banned, and so we in the kratom community have to remain vigilant.
+
+## Can you take too much?
+
+Yes! When I first began my kratom journey, I hadn't quite figured out a consistent dose, and I hadn't found a vendor that I used consistently, so some batches were more potent than others. I accidentally took too much a few times, then felt wobbly and nauseous, and would have to sleep it off. I learned my lesson, and now take it in moderation. It's a tool in my toolbox, and I use it when I need it, not to get high or to escape reality.
+
+## Any other benefits?
+
+Since I started taking kratom, I haven't had acid reflux &mdash; like, at all. Prior, acid reflux was a daily occurrence, and required multiple antacids per week. I have no idea how long it's been since I last had to take an antacid. I've seen anecdotes of others who've said it helps their acide reflux, so there may be something to it. Kratom hasn't been studied in detail until fairly recently, and we don't have a ton of scientific data on it. That's growing by the day, though.
+
+## More information
+
+- [American Kratom Association](https://www.americankratom.org/): The American Kratom Association (AKA) is a non-profit organization that advocates for the responsible use of kratom and works to protect the rights of kratom consumers. They provide information on kratom, its benefits, and its legal status in various states. They have been instrumental in getting legislation passed at the state level to protect kratom consumers. They're also continuously monitoring the FDA and other government agencies to ensure that kratom remains legal and accessible to those who need it.
