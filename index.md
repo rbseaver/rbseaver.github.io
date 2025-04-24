@@ -15,7 +15,7 @@ I'm a software engineer who lives in Austin, TX. Rather than trying to come up w
 - I enjoy writing code (obviously)
 - Music sustains me. Here are a few bullets about my musical interests:
   - Old-time folk, blues, and country. Anything pre-1950 really gets my blood pumping.
-  - Cajun music. This is a recent obsession. I love the accordion and the fiddle. I've also started learning Cajun French, which was unexpected. I was never a big fan of French in school, and studied Spanish instead.
+  - Cajun music. This is a recent obsession. I love the accordion and the fiddle. I've also started learning Cajun French, which was unexpected. I was never a big fan of French in school, *mais, asteur moi j'aime apprendre le français Cadienne!*
   - I play the banjo and guitar, and am teaching myself how to fiddle.
 - I am married and have a son who just turned 18. We also have two cats, Peter and Gwen. Yes, they're named after the characters in Spider-Man. Peter is a big orange tabby, and Gwen is a petite tuxedo cat.
 - The best TV show to ever air is Deadwood. I will fight you on this.
