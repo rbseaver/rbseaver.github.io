@@ -1,4 +1,4 @@
-## Welcome
+# Welcome
 
 I'm Rob, a software engineer who moonlights as an amateur (read: terrible) banjo and guitar player. I also yodel.
 

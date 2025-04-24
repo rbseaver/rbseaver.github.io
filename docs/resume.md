@@ -1,13 +1,11 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rbseaver" data-version="v1"></div>
-
-
+# Resume
 
 ## Summary
 
 I am an experienced software developer and team lead with over twenty years of experience in web application development. I consider myself a full-stack developer with a preference for backend development, and have a good deal of recent experience with Node.js and Angular/Typescript. Historically, I have worked in the Microsoft world, evolving with their development toolsets over the years. I am driven to write clean, testable code and approach software development from a test-first/TDD mindset. I also enjoy mentoring and leading small teams to deliver software in frequent, small iterations.
 
 ## Specialties
+
 Microsoft .NET, C#, Node.js, Typescript, JavaScript, Angular 4+, HTML, CSS, MS SQL Server, Jira, Git, Microsoft TFS, Microsoft Visual Studio, Visual Studio Code, Azure DevOps, AWS
 
 ## Experience
@@ -75,9 +73,6 @@ ___
 ### March 1998 - February 1999 | PC Technician and Web Designer | NetWork Labs, LLC
 
 Duties included troubleshooting customers' PCs, on-site network maintenance, and web design. I maintained the company’s corporate site, and developed web sites for new and existing clients using HTML and CSS.
+___
 
----
-
-###### For more information, please visit https://www.linkedin.com/in/rbseaver/
-
-              
+#### For more information, please visit https://www.linkedin.com/in/rbseaver/
