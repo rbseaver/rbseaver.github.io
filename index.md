@@ -6,7 +6,7 @@ I'm Rob, a software engineer, dad, and husband. Here are some links you might fi
 - [GitHub](https://github.com/rbseaver)
 - [Resume](/docs/resume)
 
-Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me. Otherwise, I may ignore connection requests.
+Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me -- not because I'm special or rude, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us, and save us both time.
 
 ## About Rob
 
