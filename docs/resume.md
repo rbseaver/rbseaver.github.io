@@ -8,7 +8,7 @@ Seasoned software engineer with extensive experience in Microsoft and a strong c
 
 ## TECHNICAL SKILLS
 
-ASP\.NET Web API | Microsoft SQL Server | Microsoft Visual Studio | Entity Framework | Azure DevOps | TDD | SOLID Design Principles | .NET Framework | C\# | Angular | Visual Studio | Node.js | TypeScript | ES6 | Microsoft Visual Studio Code.
+ASP\.NET Web API \| Microsoft SQL Server \| Microsoft Visual Studio \| Entity Framework \| Azure DevOps \| TDD \| SOLID Design Principles \| .NET Framework \| C\# \| Angular \| Node.js \| TypeScript \| ES6 \| Microsoft Visual Studio Code
 
 ## PROFESSIONAL EXPERIENCE
 
