@@ -1,78 +1,69 @@
 # Resume
 
-## Summary
+Please reach out via [LinkedIn](https://www.linkedin.com/in/rbseaver) or [GitHub](https://github.com/rbseaver) to connect.
 
-I am an experienced software developer and team lead with over twenty years of experience in web application development. I consider myself a full-stack developer with a preference for backend development, and have a good deal of recent experience with Node.js and Angular/Typescript. Historically, I have worked in the Microsoft world, evolving with their development toolsets over the years. I am driven to write clean, testable code and approach software development from a test-first/TDD mindset. I also enjoy mentoring and leading small teams to deliver software in frequent, small iterations.
+## SOFTWARE ENGINEER
 
-## Specialties
+Seasoned software engineer with extensive experience in Microsoft and a strong command of Node.js, TypeScript, and cloud-based architectures. Adept at designing scalable APIs, integrating complex systems, and implementing TDD and SOLID principles to ensure clean, maintainable code. Proven leadership in mentoring developers, leading teams, and optimizing software development processes.
 
-Microsoft .NET, C#, Node.js, Typescript, JavaScript, Angular 4+, HTML, CSS, MS SQL Server, Jira, Git, Microsoft TFS, Microsoft Visual Studio, Visual Studio Code, Azure DevOps, AWS
+## TECHNICAL SKILLS
 
-## Experience
+ASP\.NET Web API | Microsoft SQL Server | Microsoft Visual Studio | Entity Framework | Azure DevOps | TDD | SOLID Design Principles | .NET Framework | C\# | Angular | Visual Studio | Node.js | TypeScript | ES6 | Microsoft Visual Studio Code.
 
-### January 2018 - Present | Senior Software Engineer/Team Lead | CPA Global
+## PROFESSIONAL EXPERIENCE
 
-* **January 2021 - Present**: Team lead on a greenfield project. The effort is desinged to standardize and integrate data between numerous system, both current and legacy. The system is a REST API written in Typescript/Node.js, and hosted in Amazon AWS. The primary function of the API is to validate and ensure data integrity between systems by enforcing a common data model. The model uses JSON objects, which define rules for data types. Incoming data is then evaluated against a validation engine which rejects malformed data. If the data is valid, it is saved to DocumentDB hosted in Amazon AWS, where other systems can retrieve the data on demand.
+**Clarivate (acquired CPA Global), October 2020–January 2025**
+**Senior Lead Software Engineer**
 
-* **June 2020 - December 2020**: Served as team lead/scrum master on a project with a Node.js/Serverless backend and Angular/Typescript frontend hosted in AWS. Helped to bring the project to market by working closely with product and developers to add new features. Additionally, emphasized the importance of automated unit/integration testing, making unit tests first-class citizens. Coverage increased drastically on the frontend, which initially had no working unit tests, and the backend.
+* Played a key role in establishing a common data model and API to enable seamless transmission of patent/trademark dataacross disparate systems.
+* Worked closely with business and technical teams to develop a common data model and developed validation mechanismsto ensure proper data structure.
+* Addressed integration challenges caused by multiple acquisitions, standardizing data exchange through a central API withenforced JSON standards.
+* Worked closely with DevOps and delivery manager to devise a repeatable, stable, Azure DevOps pipeline that allowed formultiple development and staging releases per week, or day, as needed.
+* Employed a variety of technologies, including Node.js, Typescript, Serverless, AWS Lambdas, MySQL, DocumentDB, and ECSContainers.
 
-* **Jan 2018 - May 2020**: Hired to build a team of near-shore developers from Costa Rica and bring a product to market that was being handed over from developers in Linköping, Sweden. The application was written with Microsoft WebApi and SQL Server on the backend with an Angular frontend and hosted in Microsoft Azure. I served as scrum master and worked closely with product management. Our team was able to launch on time and deliver a quality product that was received well and immediately became mission critical. Responsible for leading ongoing development and support until June 2020.
+**CPA Global, January 2018–October 2020**
+**Senior Software Engineer/Lead**
 
-___
+* Hired as a lead developer to build a team and take ownership of an application built with the .Net Framework, hosted in Azure,and maintained by a team in Linköping, Sweden.
+* Interviewed candidates, onboarded new team members, and acted as a scrum master and lead engineer.
+* Successfully took the product from beta to production, meeting commitments and delivering on time. Reduced turnaroundtime for users from upwards of a week, down to several hours.
+* Technologies included Microsoft Web API for backend operations, and Angular 4+ for frontend functionality.
+* *CPA Global Excellence Award* recipient, May 2019
 
-### May 2013 - January 2018 | Software Developer | Volusion, Inc.
+**Volusion, June 2013–January 2018**
+**Software Engineer**
 
-In an Agile environment, code bug fixes and enhancements for an e-commerce application written in classic ASP, ASP.NET (C#), and T-SQL. Write unit and integration tests in ASP.Net, ASP Classic, and Javascript/Node.js using Mocha/Chai. Perform code reviews as needed. Mentor junior developers as needed. Assist with deployments using TeamCity, Octopus Deploy, and Powershell. Participate in daily Scrum meetings and provide task estimates/updates to team members and managers.
+* Coded bug fixes and enhancements for an e-commerce application using classic ASP, ASP\.NET (C#), and T-SQL.
+* Wrote unit and integration tests in ASP.NET, ASP Classic, and JavaScript· Performed code reviews to ensure quality and adherence to standards.
+* Mentored junior developers, providing guidance and support as needed.
+* Assisted with deployments using TeamCity, Octopus Deploy, and PowerShell. 
+* *Volusion Values Award: Transparency* recipient, January 2017
 
-___
+**HealthStream, July 2012–May 2013**
+**Software Developer**
 
-### July 2012 - May 2013 | Operations Manager | HealthStream, Inc. (Formerly Decision Critical, Inc.)
+* Maintained and enhanced legacy applications written in classic ASP.
+* Provided first and second-level customer support via phone and email.  
+* Applied programming and analytic skills, along with in-depth knowledge of the product suite, to help clients maximize the value of products.
 
-Primary duties include maintenance and enhancement of legacy applications written in classic ASP, in addition to first and second-level customer support. Conduct in-services with clients to provide assistance with our applications. Use programming and analytical skills to work directly with clients to develop solutions to meet organizational requirements. HealthStream was a competing organization who purchased Decision Critical.
+## ADDITIONAL PROFESSIONAL EXPERIENCE
 
-___
+**Decision Critical, June 2005-June 2012**
+**Senior Software Developer**
 
-### June 2005 - June 2012 | Decision Critical, Inc
+**NCR Corporation, August 2003-May 2005**
+**Software Developer**
 
-* **July 2010 - June 2012 \| Client Services Program Manager**: First and second-level customer support via phone and email, feature enhancements, bug fixes. Served as technical lead on new client implementations, developed relationships with client to discover how our line of products could meet their business needs.
+**PacifiCare Health Systems, September 2001-April 2003**
+**Systems Analyst IV/Software Developer**
 
-* **June 2005 - July 2010 \| Senior Software Engineer**: New feature analysis/development for suite of products supporting several hundred thousand users, code maintenance, customer support, and server/database maintenance. Application is written with Classic ASP with a SQL Server 2005 backend, while parts of the application have been upgraded to ASP.Net 4.0 - MVC. During my tenure as a software engineer, I worked with customers to address their concerns and needs, and enhance the product to meet customers’ expectations.
+**TEKsystems, March 2001-August 2001**
+**Contract Software Developer**
 
-___
+**drkoop\.com, August 2000-January 2001**
+**Web Developer**
 
-### August 2003 - May 2005 | Client-Server Developer | First Level Technologies
+## EDUCATION
 
-Responsible for database administration and development/maintenance of legacy and new applications. Developed using ASP.Net using C#, and SQL Server 2000. Supported classic ASP and Microsoft Access-based applications as needed. Worked with various teams across the organization to help enhance processes through technology.
-
-___
-
-### September 2001 - March 2003 | PacifiCare Health Systems | Systems Analyst IV
-
-Responsible for developing databases and web-based applications to support internal business processes. Met with cross-functional groups to gather business requirements, develop specifications, and deliver web-based solutions using Classic ASP with Microsoft SQL Server. Made extensive use of XML data islands to limit postbacks to server.
-
-___
-
-### March 2001 - September 2001 | Contractor | TEKsystems (Formerly Maxim Group)
-
-Worked on several projects to develop applications to support business processes for two clients. Developed a Java console application to transmit data from mainframe to text files, which were then parsed and loaded into a SQL Server database. Additionally, I developed a web-based tracking application for PacifiCare Health Systems that was used by a provider relations team to manage provider data.
-
-___
-
-### August 2000 - January 2001 | Web Developer | drkoop.com
-
-Developed and maintained tools for the drkoop.com website using classic ASP technology. Worked with QA, management, and product teams to ensure end product met consumers’ needs.
-
-___
-
-### March 1999 - August 2000 | System Support Specialist II | Texas Parks & Wildlife Department
-
-Responsible for maintenance and enhancement of Inland Fisheries division of the department website. Updated look of site and used technologies such as Java and PERL to add interactivity to the web site.
-
-___
-
-### March 1998 - February 1999 | PC Technician and Web Designer | NetWork Labs, LLC
-
-Duties included troubleshooting customers' PCs, on-site network maintenance, and web design. I maintained the company’s corporate site, and developed web sites for new and existing clients using HTML and CSS.
-___
-
-#### For more information, please visit https://www.linkedin.com/in/rbseaver/
+**Coursework towards a Bachelor of Arts (BA), Spanish with a minor in Anthropology**
+Rutgers University, New Brunswick, NJ
