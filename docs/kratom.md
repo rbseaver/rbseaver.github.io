@@ -1,12 +1,16 @@
 # Kratom
 
+## First things first
+
+I am not a doctor, nor do I wish to pretend to be one. (If anything, I'd like to pretend I'm a laywer). This is just one person's experience, and should *absolutely* not be taken as medical advice. For a deep dive, visit the link at the bottom of the page to learn more about kratom.
+
 ## What is Kratom?
 
-Kratom is a plant that has been used for centuries in Southeast Asia for its stimulant and sedative properties. It is derived from the leaves of the Mitragyna speciosa tree, which is native to countries like Thailand, Malaysia, and Indonesia. The leaves contain compounds called alkaloids, which interact with the body's opioid receptors to produce various effects.
+Kratom is a plant that has been used for centuries in Southeast Asia for its stimulant and sedative properties. It is derived from the leaves of the Mitragyna speciosa tree, which is native to countries like Thailand, Malaysia, and Indonesia. The leaves contain compounds called alkaloids, which interact with the body's opioid receptors to produce a range of effects.
 
 ## Stimulant *and* Sedative Effects? WTF?
 
-Indeed. At higher doses, it can act as a sedative, and at lower doses, it can act as a stimulant. This makes it helpful for a variety of conditions.
+Indeed. In small doses — especially 'white' or 'green' strains — kratom can give you a clean energy boost. In larger doses (or with 'red' strains), it leans more into relaxation and pain relief.
 
 ## You do drugs, Rob?
 
@@ -15,6 +19,10 @@ Only if you classify caffeine as a drug. It technically is, but you'd be hard-pr
 ## Why do you use it?
 
 I discovered it about a dozen years ago. If I'm being honest, I was looking for something to help with anxiety and depression because I'd grown tired of the range of effects I experienced from antidepressants. I sent to the nearest headshop, and had no idea what I was looking for, but one of the helpful employees pointed me to this green powdery thing called kratom. That evening when I got home, I took a teaspoon of it with some water. After about 30 minutes, I admittedly experienced a wave of euphoria, which turned into energy. The energy boost was unmistakable, and I knew that this would help me get through the day without falling asleep. It was like night and day. Kratom became part of my morning and afternoon routines, and I was &mdash; within days &mdash; a drastically better father, husband, and employee. I actually wanted to *do things* again, like go for walks and play kickball in the backyard with my son. Prior to that, I was simply existing, and hoping to stay awake during the day. It's twelve years later, and I still drink kratom every day, usually mixed in to a peppermint tea. I no longer experience euphoria, but I do notice on days when I have less that I'm quite lethargic &mdash; similar to going through caffeine withdrawal. My most recent bloodwork from earlier this year came back fine, and I remain healthy and fairly active. I won't say that kratom saved my life, but it certainly improved it by leaps and bounds.
+
+## Speaking of withdrawal
+
+If you use kratom daily for weeks or months, stopping can be a little bumpy — think mild opioid withdrawal: fatigue, moodiness, body aches. So, I won't lie; it can be unpleasant. In my experience, withdrawal consists of extra fatigue, some minor G.I. issues, and for some reason, a runny nose. It's maybe a bit more than caffeine withdrawal, but not by much. Coming off certain antidepressants was much worse for me.
 
 ## Why write about it?
 
@@ -29,6 +37,10 @@ Yes! When I first began my kratom journey, I hadn't quite figured out a consiste
 ## Any other benefits?
 
 Since I started taking kratom, I haven't had acid reflux &mdash; like, at all. Prior, acid reflux was a daily occurrence, and required multiple antacids per week. I have no idea how long it's been since I last had to take an antacid. I've seen anecdotes of others who've said it helps their acide reflux, so there may be something to it. Kratom hasn't been studied in detail until fairly recently, and we don't have a ton of scientific data on it. That's growing by the day, though.
+
+## Bottom Line
+
+Kratom isn't heroin, nor is it magic. Like most things, it comes down to responsible consumpation. The right dose can have amazing benefits, as I described. Be smart &mdash; i.e., don't listen to the guy at the headshop who tells you to start with thre tablespoons &mdash;, research it extensively, and find a trustworthy vendor. The American Kratom Association linked below has a list of vendors who follow their Good Manufacturing Practices (GMP) program, which ensures that the kratom is tested for purity and quality.
 
 ## More information
 
