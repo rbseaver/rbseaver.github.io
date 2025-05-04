@@ -4,7 +4,7 @@ Please reach out via [LinkedIn](https://www.linkedin.com/in/rbseaver) or [GitHub
 
 ## SOFTWARE ENGINEER
 
-Seasoned software engineer with extensive experience in Microsoft and a strong command of Node.js, TypeScript, and cloud-based architectures. Adept at designing scalable APIs, integrating complex systems, and implementing TDD and SOLID principles to ensure clean, maintainable code. Proven leadership in mentoring developers, leading teams, and optimizing software development processes.
+Seasoned software engineer with extensive experience in Microsoft and a strong command of Node.js, TypeScript, and cloud-based architectures. Adept at designing scalable APIs, integrating complex systems, and implementing TDD and SOLID principles to ensure clean, maintainable code. Compassionate colleague and leader who enjoys mentoring developers, leading small teams, and advocating for team standards and best practices.
 
 ## TECHNICAL SKILLS
 
