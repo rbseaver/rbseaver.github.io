@@ -1,12 +1,22 @@
 # Intro
 
-Hey there! I'm Rob, a software engineer, dad, and husband. Here are some links you might find helpful:
+```json
+{
+  "name": "Rob Seaver",
+  "occupations": ["software engineer", "human dad", "cat dad", "husband"],
+  "blurb": "Why, hello there! I'm Rob, a Gen-X husband and dad of a human and two cats."
+}
+```
+
+## Contact Information
+
+Here are some links you might find helpful for getting in touch:
 
 - [LinkedIn](https://www.linkedin.com/in/rbseaver)
 - [GitHub](https://github.com/rbseaver)
 - [Resume](/docs/resume)
 
-Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me &mdash; not because I'm special or rude, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us, and save us both time.
+Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me &mdash; not because I'm special or rude, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us, and save us time.
 
 ## Fun Facts
 
