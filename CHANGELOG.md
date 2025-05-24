@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.3.0...v1.4.0) (2025-05-24)
+
+
+### Features
+
+* add favicon ([fb59d22](https://github.com/rbseaver/rbseaver.github.io/commit/fb59d22678cf2f9bf3fcf9c501cea388396e7d2d))
+* edits to kratom page ([49906ea](https://github.com/rbseaver/rbseaver.github.io/commit/49906ea21c2ac2721c493d6262be955c6373efb0))
+* update to hacker theme ([88aae02](https://github.com/rbseaver/rbseaver.github.io/commit/88aae0246b8cd2b133a4e48145115c83880ab039))
+
+
+### Bug Fixes
+
+* un-table-ify tech skills; remove redundant skill ([e5102fd](https://github.com/rbseaver/rbseaver.github.io/commit/e5102fda7c095cab9ddd77c652af9f4eee2b52d3))
+
 ## [1.3.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.2.0...v1.3.0) (2025-04-24)
 
 
