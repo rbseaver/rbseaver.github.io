@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.4.1...v1.5.0) (2025-05-24)
+
+
+### Features
+
+* add link to CHANGELOG ([3b55fc4](https://github.com/rbseaver/rbseaver.github.io/commit/3b55fc482bb9c3a0ccefc58900409f2c4813a4f1))
+
 ## [1.4.1](https://github.com/rbseaver/rbseaver.github.io/compare/v1.4.0...v1.4.1) (2025-05-24)
 
 
