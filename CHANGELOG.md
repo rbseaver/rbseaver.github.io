@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.1](https://github.com/rbseaver/rbseaver.github.io/compare/v1.4.0...v1.4.1) (2025-05-24)
+
+
+### Bug Fixes
+
+* put the _config.yml file in the right place. 🤦 ([7c5c766](https://github.com/rbseaver/rbseaver.github.io/commit/7c5c766f68f47c700837b446eaa923391cefa9fb))
+
 ## [1.4.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.3.0...v1.4.0) (2025-05-24)
 
 
