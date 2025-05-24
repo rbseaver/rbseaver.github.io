@@ -33,3 +33,5 @@ I'm a software engineer who lives in Austin, TX. Rather than trying to come up w
 - I like taking 20 minute walks daily. It helps clear my head, get some fresh air, and get some exercise. I have actually lost weight, though it was not the primary goal.
 - I attended college for four years, then dropped out during my senior year. My major was Spanish, with a minor in anthropology. Regrets are ever-present, but I try to remind myself that I turned out fine, and have been successful in life in my career in spite of it.
 - I haved lived in Texas for the past twenty-five years, but I grew up in the Northeast &mdash; New Jersey, to be exact. When I first moved here, everyone was so friendly that I thought they were just trying to get something from me. After a few years, I learned how to be "Texas polite" and for the most part, consider myself a Texan now. Every once in a while a New Jersey-ism slips out, but it's rarer with each passing year.
+
+[Changelog](CHANGELOG.md)
