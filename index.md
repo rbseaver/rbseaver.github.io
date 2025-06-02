@@ -16,7 +16,7 @@ Here are some links you might find helpful for getting in touch:
 - [GitHub](https://github.com/rbseaver)
 - [Resume](/docs/resume)
 
-Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me &mdash; not because I'm special or rude, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us, and save us time.
+Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me &mdash; not because I'm needlessly rude or because I think I'm special, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us.
 
 ## Fun Facts
 
