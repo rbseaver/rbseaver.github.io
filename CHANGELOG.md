@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.6.1](https://github.com/rbseaver/rbseaver.github.io/compare/v1.6.0...v1.6.1) (2025-06-02)
+
+
+### Bug Fixes
+
+* actually apply intro wording tweaks to the correct file 😬 ([788268a](https://github.com/rbseaver/rbseaver.github.io/commit/788268ab603f04da4ae937aa0d79706c678c46eb))
+
 ## [1.6.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.5.0...v1.6.0) (2025-06-02)
 
 
