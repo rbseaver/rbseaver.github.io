@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.6.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.5.0...v1.6.0) (2025-06-02)
+
+
+### Features
+
+* more wording improvements. i think ([2bb174d](https://github.com/rbseaver/rbseaver.github.io/commit/2bb174d2729e4f8f9001098d22ba4b772d51e336))
+* wording tweaks in intro paragraph ([5d4242e](https://github.com/rbseaver/rbseaver.github.io/commit/5d4242ec9da5f77cff08994c5657bb2850ccd2c3))
+
+
+### Bug Fixes
+
+* punctuation is the cornerstone of good communication. period. ([c50556e](https://github.com/rbseaver/rbseaver.github.io/commit/c50556e29149b313680763b1d5723c8bc9dff729))
+
 ## [1.5.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.4.1...v1.5.0) (2025-05-24)
 
 
