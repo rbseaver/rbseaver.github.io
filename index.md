@@ -16,16 +16,17 @@ Here are some links you might find helpful for getting in touch:
 - [GitHub](https://github.com/rbseaver)
 - [Resume](/docs/resume)
 
-Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me &mdash; not because I'm needlessly rude or because I think I'm special, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us.
+Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me &mdash; not because I'm special or rude, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us, and save us time.
 
 ## Fun Facts
 
-I'm a software engineer who lives in Austin, TX. Rather than trying to come up with elegant prose, I thought I'd just list some of my interests and hobbies, as well as some fun facts.
+I'm an Austin, TX-based software engineer who was doing full-stack development before the term existed (ca. 1999). Get off my lawn, or something. Here are some of my interests and hobbies, as well as some fun facts.
+
 
 - I enjoy writing code (obviously).
 - Music sustains me. Here are a few bullets about my musical interests:
   - Old-time folk, blues, and country. Anything pre-1950 really gets my blood pumping.
-  - Cajun music. This is a recent obsession. I love the accordion and the fiddle. I've also started learning Cajun French, which was unexpected. I was never a big fan of French in school, *mais, asteur moi j'aime apprendre le français Cadienne!*
+  - Cajun music. This is a recent obsession. I love the accordion and the fiddle. I've also started learning Cajun French, which was unexpected. I was never a big fan of French in school, *mais, asteur moi j'aime apprendre le français Cadien!*
   - I play the banjo and guitar, and am teaching myself how to fiddle.
 - I am married and have a son who just turned 18. We also have two cats, Peter and Gwen. Yes, they're named after the characters in Spider-Man. Peter is a big orange tabby, and Gwen is a petite tuxedo cat.
 - The best TV show to ever air is Deadwood. I will fight you on this.
