@@ -1,69 +1,76 @@
 # Resume
 
-Please reach out via [LinkedIn](https://www.linkedin.com/in/rbseaver) or [GitHub](https://github.com/rbseaver) to connect.
+<h3>Clarivate | Austin, TX | January 2018–January 2025</h3>
+<h3>Senior Lead Software Engineer</h3>
 
-## SOFTWARE ENGINEER
+<span class="job-details">Clarivate offers enriched data, insights & analytics, workflow solutions and expert services in the areas of Academia & Government, Intellectual Property and Life Sciences & Healthcare.</span>
 
-Seasoned software engineer with extensive experience in Microsoft and a strong command of Node.js, TypeScript, and cloud-based architectures. Adept at designing scalable APIs, integrating complex systems, and implementing TDD and SOLID principles to ensure clean, maintainable code. Compassionate colleague and leader who enjoys mentoring developers, leading small teams, and advocating for team standards and best practices.
+- <span class="job-details">Over a period of several years, served as a lead on successive projects, in each case working to bring a product from early stage beta or POC, to production.</span>
 
-## TECHNICAL SKILLS
+- <span class="job-details">Played a key role in developing a POC for a REST API to address integration challenges caused by multiple acquisitions over many years.</span>
 
-ASP\.NET Web API \| Microsoft SQL Server \| Microsoft Visual Studio \| Entity Framework \| Azure DevOps \| TDD \| SOLID Design Principles \| .NET Framework \| C\# \| Angular \| Node.js \| TypeScript \| ES6 \| Microsoft Visual Studio Code
+  - <span class="job-details">Devised a common, JSON-based, model for data exchange and wrote the initial validation code to enforce the standard, using TypeScript and Node.js. The POC quickly moved to beta, and then to production after extensive user testing and broad appeal.</span>
 
-## PROFESSIONAL EXPERIENCE
+  - <span class="job-details">Later responsible for developing a UI to simplify certain API operations, integrating with internal SSO authentication. This application used React.js on the frontend, and contained a backend in Express.js, Node.js, and TypeScript to authenticate/authorize users against an internal authentication and permissions system.</span>
 
-**Clarivate (acquired CPA Global), October 2020–January 2025**
-**Senior Lead Software Engineer**
+- <span class="job-details">Worked with a team to develop and enhance a web-based form builder application that enabled organizations to populate, edit, and submit the Invention Disclosure Statement (IDS) form to relevant entities. Application built using TypeScript, Angular, JavaScript, and Node.js.</span>
 
-* Played a key role in establishing a common data model and API to enable seamless transmission of patent/trademark dataacross disparate systems.
-* Worked closely with business and technical teams to develop a common data model and developed validation mechanismsto ensure proper data structure.
-* Addressed integration challenges caused by multiple acquisitions, standardizing data exchange through a central API withenforced JSON standards.
-* Worked closely with DevOps and delivery manager to devise a repeatable, stable, Azure DevOps pipeline that allowed formultiple development and staging releases per week, or day, as needed.
-* Employed a variety of technologies, including Node.js, Typescript, Serverless, AWS Lambdas, MySQL, DocumentDB, and ECSContainers.
+  - <span class="job-details">Served as a lead developer, responsible for the initial architecture and design of the application, and later for onboarding new team members.</span>
 
-**CPA Global, January 2018–October 2020**
-**Senior Software Engineer/Lead**
+  - <span class="job-details">Worked closely with internal stakeholders to gather requirements, and provided product support.</span>
 
-* Hired as a lead developer to build a team and take ownership of an application built with the .Net Framework, hosted in Azure,and maintained by a team in Linköping, Sweden.
-* Interviewed candidates, onboarded new team members, and acted as a scrum master and lead engineer.
-* Successfully took the product from beta to production, meeting commitments and delivering on time. Reduced turnaroundtime for users from upwards of a week, down to several hours.
-* Technologies included Microsoft Web API for backend operations, and Angular 4+ for frontend functionality.
-* *CPA Global Excellence Award* recipient, May 2019
+- <span class="job-details">Served as a lead developer responsible for assuming ownership of a web application in early beta stage that was being transferred from an engineering team in Sweden. The application was developed with a Microsoft Web API/C# backend, and Angular/TypeScript for the frontend.</span>
 
-**Volusion, June 2013–January 2018**
-**Software Engineer**
+  - <span class="job-details">Rapidly selected and onboarded team members from a nearshore team in Costa Rica, enabling them to begin contributing immediately.</span>
 
-* Coded bug fixes and enhancements for an e-commerce application using classic ASP, ASP\.NET (C#), and T-SQL.
-* Wrote unit and integration tests in ASP.NET, ASP Classic, and JavaScript· Performed code reviews to ensure quality and adherence to standards.
-* Mentored junior developers, providing guidance and support as needed.
-* Assisted with deployments using TeamCity, Octopus Deploy, and PowerShell. 
-* *Volusion Values Award: Transparency* recipient, January 2017
+  - <span class="job-details">Provided product support, and worked closely with the business analyst, product manager, and other internal stakeholders to expand features.</span>
 
-**HealthStream, July 2012–May 2013**
-**Software Developer**
+<span class="job-details">*Technologies Used*: TypeScript, Node.js, Express.js, React.js, Angular, MongoDB, MySQL, AWS
+</span>
 
-* Maintained and enhanced legacy applications written in classic ASP.
-* Provided first and second-level customer support via phone and email.  
-* Applied programming and analytic skills, along with in-depth knowledge of the product suite, to help clients maximize the value of products.
+<h3>Volusion | Austin, TX | June 2013–January 2018</h3>
+<h3>Software Engineer</h3>
 
-## ADDITIONAL PROFESSIONAL EXPERIENCE
+<span class="job-details">Volusion provides e-commerce solutions to thousands of small and medium-sized businesses.</span>
 
-**Decision Critical, June 2005-June 2012**
-**Senior Software Developer**
+- <span class="job-details">Coded bug fixes/enhancements for e-commerce engine, using ASP.NET, JavaScript, and T-SQL.</span>
 
-**NCR Corporation, August 2003-May 2005**
-**Software Developer**
+- <span class="job-details">Added unit and integration tests to legacy code, adding test coverage to key areas.</span>
 
-**PacifiCare Health Systems, September 2001-April 2003**
-**Systems Analyst IV/Software Developer**
+<span class="job-details">*Technologies Used*: ASP\.NET, C#, JavaScript, MS SQL Server, T-SQL, PowerShell, TeamCity, Octopus Deploy</span>
 
-**TEKsystems, March 2001-August 2001**
-**Contract Software Developer**
+<h3>Decision Critical/HealthStream | Austin, TX | June 2005–May 2013</h3>
+<h3>Senior Software Engineer</h3>
 
-**drkoop\.com, August 2000-January 2001**
-**Web Developer**
+<span class="job-details">HealthStream is a SaaS platform for delivering online educational content and assessing professional competencies.</span>
 
-## EDUCATION
+- <span class="job-details">Provided first and second-level customer support via phone and email, managing expectations for fixes and features.</span>
 
-**Coursework towards a Bachelor of Arts (BA), Spanish with a minor in Anthropology**
-Rutgers University, New Brunswick, NJ
+- <span class="job-details">Applied programming and analytic skills, along with in-depth knowledge of the product suite, to help clients maximize the value of products.</span>
+
+- <span class="job-details">Developed new features and fixed bugs as needed.</span>
+
+- <span class="job-details">Mentored other developers, and helped with onboarding</span>
+
+<span class="job-details">*Technologies Used*: ASP\.NET, JavaScript, VB6, Microsoft SQL Server, T-SQL</span>
+
+___
+
+<h3>ADDITIONAL PROFESSIONAL EXPERIENCE</h3>
+
+<span class="job-details"><b>NCR Corporation</b> | Austin, TX | August 2003 – May 2005
+<br><b>Software Developer</b></span>
+
+<span class="job-details"><b>PacifiCare Health Systems</b> | San Antonio, TX | September 2001 – April 2003
+<br><b>Systems Analyst IV/Software Developer</b></span>
+
+<span class="job-details"><b>TEKsystems,</b> Austin, TX | March 2001 – August 2001
+<br><b>Contract Software Developer</b></span>
+
+<span class="job-details"><b>drkoop\.com,</b> Austin, TX | August 2000 – January 2001
+<br><b>Web Developer</b></span>
+
+___
+
+<h3>OTHER SKILLS AND INTERESTS</h3>
+<span class="job-details">Node.js | TypeScript | Express.js | ES6 | React.js | Angular | MySQL | Visual Studio Code | Git | CI/CD Development/Maintenance | SOLID | TDD | Azure DevOps | TeamCity | Octopus Deploy</span>
