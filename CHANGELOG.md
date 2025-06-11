@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.8.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.7.0...v1.8.0) (2025-06-11)
+
+
+### Features
+
+* add resume stylesheet ([3fe85fd](https://github.com/rbseaver/rbseaver.github.io/commit/3fe85fdbe3538741deb51da7960e7151e34ec1e4))
+* improve resume style ([06547dd](https://github.com/rbseaver/rbseaver.github.io/commit/06547ddd6adbd60983c4ad0b7a25303a6cbbe56c))
+
 ## [1.7.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.6.1...v1.7.0) (2025-06-02)
 
 
