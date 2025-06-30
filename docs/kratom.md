@@ -10,19 +10,21 @@ Kratom is a plant that has been used for centuries in Southeast Asia for its sti
 
 ## Stimulant *and* Sedative Effects? WTF?
 
-Indeed. In small doses — especially 'white' or 'green' strains — kratom can give you a clean energy boost. In larger doses (or with 'red' strains), it leans more into relaxation and pain relief.
+Indeed. In small doses — especially 'white' or 'green' strains — kratom can give you a clean energy boost. In larger doses (or with 'red' strains), it leans more towards relaxation and pain relief.
 
 ## You do drugs, Rob?
 
-Only if you classify caffeine as a drug. It technically is, but you'd be hard-pressed to find someone who drinks coffee refer to themselves as a drug user. In fact, coffee and kratom are in the same family of plants, the Rubiaceae family.
+It'd be silly to deny that kratom is a drug. I also take antidepressants, and drink coffee, both of which are also different classes of drugs. Just because they're regulated, made in a lab, or more socially acceptable in other ways, doesn't mean they're not drugs. So, yeah, if you want to call it that, I do drugs. Lock me up!
 
-## Why do you use it?
+## Why Kratom?
 
-I discovered it about a dozen years ago. If I'm being honest, I was looking for something to help with anxiety and depression because I'd grown tired of the range of effects I experienced from antidepressants. I sent to the nearest headshop, and had no idea what I was looking for, but one of the helpful employees pointed me to this green powdery thing called kratom. That evening when I got home, I took a teaspoon of it with some water. After about 30 minutes, I admittedly experienced a wave of euphoria, which turned into energy. The energy boost was unmistakable, and I knew that this would help me get through the day without falling asleep. It was like night and day. Kratom became part of my morning and afternoon routines, and I was &mdash; within days &mdash; a drastically better father, husband, and employee. I actually wanted to *do things* again, like go for walks and play kickball in the backyard with my son. Prior to that, I was simply existing, and hoping to stay awake during the day. It's twelve years later, and I still drink kratom every day, usually mixed in to a peppermint tea. I no longer experience euphoria, but I do notice on days when I have less that I'm quite lethargic &mdash; similar to going through caffeine withdrawal. My most recent bloodwork from earlier this year came back fine, and I remain healthy and fairly active. I won't say that kratom saved my life, but it certainly improved it by leaps and bounds.
+I discovered it about a dozen years ago. If I'm being honest, I was looking for something to help with anxiety and depression because I'd grown tired of the range of effects I experienced from antidepressants - extreme lethargy, in particular. At work, I was practically narcoleptic, drifting off in the middle of meetings. After work, when I was supposed to be playing with my son, I was falling asleep on the couch while he played. I was failing as a dad, husband, and employee. I didn't like myself very much.
 
-## Speaking of withdrawal
+One day, on the way home from work, I went to the nearest headshop (I didn't know any better at the time) to try and find and alternative. I had no idea what I was looking for, but one of the helpful employees pointed me to this green powdery substance called kratom. That evening when I got home, I took a teaspoon of it with some water. After about 30 minutes, I admittedly experienced a wave of euphoria, which turned into energy, but not the jittery kind. The energy boost was unmistakable, and I had a good feeling that it would help me get through the day without falling asleep. It was like night and day. Kratom became part of my morning and afternoon routines, and I was &mdash; within days &mdash; a drastically better father, husband, and employee. I actually wanted to *do things* again, like go for walks and play kickball in the backyard with my son. Prior to that, I was simply existing, and hoping to stay awake during the day. It's twelve years later, and I still drink kratom every day, usually mixed in to a peppermint tea. I no longer experience euphoria, but I do notice on days when I have less that I'm quite lethargic &mdash; similar to going through caffeine withdrawal. My most recent bloodwork from earlier this year came back fine, and I remain healthy and fairly active. I won't say that kratom saved my life, but it certainly improved it by leaps and bounds.
 
-If you use kratom daily for weeks or months, stopping can be a little bumpy — think mild opioid withdrawal: fatigue, moodiness, body aches. So, I won't lie; it can be unpleasant. In my experience, withdrawal consists of extra fatigue, some minor G.I. issues, and for some reason, a runny nose. It's maybe a bit more than caffeine withdrawal, but not by much. Coming off certain antidepressants was much worse for me.
+## How about withdrawal?
+
+If you use kratom daily for weeks or months, stopping can be a little bumpy — think mild caffeine withdrawal: fatigue, moodiness, body aches. So, I won't lie; it can be mildly unpleasant, but nothing dramatic. My withdrawal symptoms consist of extra fatigue, some minor G.I. issues, and for some reason, a runny nose. It's maybe a bit more than caffeine withdrawal, but not by much, and certainly nothing to write home about. Coming off certain antidepressants was much worse for me.
 
 ## Why write about it?
 
@@ -36,11 +38,11 @@ Yes! When I first began my kratom journey, I hadn't quite figured out a consiste
 
 ## Any other benefits?
 
-Since I started taking kratom, I haven't had acid reflux &mdash; like, at all. Prior, acid reflux was a daily occurrence, and required multiple antacids per week. I have no idea how long it's been since I last had to take an antacid. I've seen anecdotes of others who've said it helps their acide reflux, so there may be something to it. Kratom hasn't been studied in detail until fairly recently, and we don't have a ton of scientific data on it. That's growing by the day, though.
+Since I started taking kratom, I haven't had acid reflux &mdash; like, at all. Prior, acid reflux was a daily occurrence, and required multiple antacids per week. I have no idea how long it's been since I last had to take an antacid. I've seen anecdotes of others who've said it helps their acid reflux, so there may be something to it. Kratom hasn't been studied in detail until fairly recently, and we don't have a ton of scientific data on it. [That's changing, though](https://health.wusf.usf.edu/health-news-florida/2024-05-09/a-florida-university-is-a-leader-in-kratom-research-but-questions-remain).
 
 ## Bottom Line
 
-Kratom isn't heroin, nor is it magic. Like most things, it comes down to responsible consumpation. The right dose can have amazing benefits, as I described. Be smart &mdash; i.e., don't listen to the guy at the headshop who tells you to start with thre tablespoons &mdash;, research it extensively, and find a trustworthy vendor. The American Kratom Association linked below has a list of vendors who follow their Good Manufacturing Practices (GMP) program, which ensures that the kratom is tested for purity and quality.
+Kratom isn't heroin, nor is it magic. Like most things, it comes down to responsible consumption. The right dose can have amazing benefits, as I described. Be smart &mdash; i.e., don't listen to the guy at the headshop who tells you to start with three tablespoons &mdash;, research it extensively, and find a trustworthy vendor. The American Kratom Association linked below has a list of vendors who follow their Good Manufacturing Practices (GMP) program, which ensures that the kratom is tested for purity and quality.
 
 ## More information
 
