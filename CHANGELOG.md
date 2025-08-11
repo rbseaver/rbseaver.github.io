@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.10.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.9.0...v1.10.0) (2025-08-11)
+
+
+### Features
+
+* update resume style and content ([88b9b20](https://github.com/rbseaver/rbseaver.github.io/commit/88b9b208aded4fbc8c4459c0a14530ef86c6b2fe))
+
 ## [1.9.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.8.0...v1.9.0) (2025-07-23)
 
 
