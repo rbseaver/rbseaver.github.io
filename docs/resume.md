@@ -1,6 +1,6 @@
 # Resume
 
-Austin, TX 78750 | [linkedin.com/in/rbseaver/](http://linkedin.com/in/rbseaver/) | [rob.seaver@gmail.com](mailto:rob.seaver@gmail.com) | (512) 576-4801
+Austin, TX 78750 | [linkedin.com/in/rbseaver/](http://linkedin.com/in/rbseaver/) | [rob.seaver@gmail.com](mailto:rob.seaver@gmail.com)
 
 ## SUMMARY
 * 20+ years of experience in web application development across startups, government, and enterprise, globally-distributed teams  
