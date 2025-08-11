@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.10.1](https://github.com/rbseaver/rbseaver.github.io/compare/v1.10.0...v1.10.1) (2025-08-11)
+
+
+### Features
+
+* update intro, description, title ([de6c80c](https://github.com/rbseaver/rbseaver.github.io/commit/de6c80cc6eab0205dc40410e6c95b52a4af92ffb))
+
+
+### Bug Fixes
+
+* remove phone number from resume ([499e4c5](https://github.com/rbseaver/rbseaver.github.io/commit/499e4c5fb891e48151328fc1f77433d5dded7547))
+
 ## [1.10.0](https://github.com/rbseaver/rbseaver.github.io/compare/v1.9.0...v1.10.0) (2025-08-11)
 
 
