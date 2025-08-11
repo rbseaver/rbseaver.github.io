@@ -1,12 +1,6 @@
 # Intro
 
-```json
-{
-  "name": "Rob Seaver",
-  "occupations": ["software engineer", "human dad", "cat dad", "husband"],
-  "blurb": "Why, hello there! I'm Rob, a Gen-X husband and dad of a human and two cats."
-}
-```
+I'm Rob, a longtime software engineer. When I'm not at work writing code, I have a wife, a son (who just shipped off to college), and two cats. My home office is adorned with banjos, guitars, and a fiddle, which I play with varying degrees of mediocrity. During the day, I like taking a brisk 20-minute walk to clear my head, get some fresh air, and get some exercise. I have a passion for old-time folk, blues, and country music, and I've recently developed an interest in Cajun music, culture, and language.
 
 ## Contact Information
 
@@ -16,7 +10,7 @@ Here are some links you might find helpful for getting in touch:
 - [GitHub](https://github.com/rbseaver)
 - [Resume](/docs/resume)
 
-Thanks for stopping by. If you'd like to get in touch, please reach out via LinkedIn or GitHub. Also, please state *why* you're contacting me &mdash; not because I'm needlessly rude or because I think I'm special, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us.
+Feel free to reach out any time using one of the above links. Also, please state *why* you're contacting me &mdash; not because I'm needlessly rude or because I think I'm special, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us if you tell me what you're looking for, so I can respond appropriately.
 
 ## Fun Facts
 
