@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Interviews from Bonjour Louisiane (KRVS)</title>
+    <link>https://www.krvs.org/show/interviews-from-bonjour-louisiane</link>
+    <description>Interviews excerpted from KRVS’s weekday sunrise program Bonjour Louisiane.</description>
+    <language>en</language>
+
+    <!-- Example item — replace with real ones -->
+    <item>
+      <title>Sample Episode</title>
+      <description>Replace this with the interview description.</description>
+      <pubDate>Mon, 01 Jan 2024 07:00:00 -0600</pubDate>
+      <enclosure url="https://example.com/audio.mp3" length="12345" type="audio/mpeg"/>
+      <guid>sample-episode-001</guid>
+    </item>
+
+  </channel>
+</rss>
