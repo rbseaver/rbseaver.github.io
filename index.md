@@ -9,6 +9,7 @@ Here are some links you might find helpful for getting in touch:
 - [LinkedIn](https://www.linkedin.com/in/rbseaver)
 - [GitHub](https://github.com/rbseaver)
 - [Resume](/docs/resume)
+- [KRVS Feed](/krvs-feed/krvs-interviews.xml)
 
 Feel free to reach out any time using one of the above links. Also, please state *why* you're contacting me &mdash; not because I'm needlessly rude or because I think I'm special, but because I don't like mysteries. Saying "Hey Rob" isn't going to cut it. It will benefit both of us if you tell me what you're looking for, so I can respond appropriately.
 
