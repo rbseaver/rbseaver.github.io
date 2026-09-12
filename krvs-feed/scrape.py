@@ -99,7 +99,7 @@ def main():
     print(f"Found {len(episodes)} episodes.")
     rss = build_rss(episodes)
 
-    with open("./krvs-feed/krvs-interviews.xml", "w", encoding="utf-8") as f:
+    with open("./krvs-interviews.xml", "w", encoding="utf-8") as f:
         f.write(rss)
 
 
