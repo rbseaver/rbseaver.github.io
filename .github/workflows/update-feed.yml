@@ -27,10 +27,12 @@ jobs:
       - name: Run scraper
         working-directory: krvs-feed
         run: python scrape.py
+        
       - name: Commit & push feed
+        working-directory: krvs-feed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add krvs-interviews.xml
-          git commit -m "Auto-update KRVS feed [skip ci]" || echo "No changes"
+          git commit -m "chore: auto-update KRVS feed [skip ci]" || echo "No changes"
           git push
