@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import email.utils as eut
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_PATH = os.path.join(BASE_DIR, "krvs-feed", "krvs-interviews.xml")
 URL = "https://www.krvs.org/podcast/interviews-from-bonjour-louisiane-on-krvs"
 
 def fetch_episodes():
@@ -99,7 +101,7 @@ def main():
     print(f"Found {len(episodes)} episodes.")
     rss = build_rss(episodes)
 
-    with open("./krvs-interviews.xml", "w", encoding="utf-8") as f:
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         f.write(rss)
 
 
