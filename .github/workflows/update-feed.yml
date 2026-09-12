@@ -25,7 +25,8 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python ./krvs-feed/scrape.py
+        working-directory: krvs-feed
+        run: python scrape.py
       - name: Commit & push feed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
