@@ -1,4 +1,5 @@
 import requests
+import html
 from bs4 import BeautifulSoup
 from datetime import datetime
 import email.utils as eut
@@ -69,13 +70,18 @@ def build_rss(items):
 
     body = ""
     for item in items:
+        title = html.escape(item['title'])
+        description = html.escape(item['description'])
+        guid = html.escape(item['guid'])
+        audio = html.escape(item['audio'])
+
         body += f"""
     <item>
-      <title>{item['title']}</title>
-      <description>{item['description']}</description>
+      <title>{title}</title>
+      <description>{description}</description>
       <pubDate>{item['pubdate']}</pubDate>
-      <enclosure url="{item['audio']}" length="0" type="audio/mpeg"/>
-      <guid>{item['guid']}</guid>
+      <enclosure url="{audio}" length="0" type="audio/mpeg"/>
+      <guid>{guid}</guid>
     </item>
 """
 
@@ -85,6 +91,7 @@ def build_rss(items):
 """
 
     return header + body + footer
+
 
 
 def main():
