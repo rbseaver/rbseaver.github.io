@@ -3,9 +3,10 @@ import html
 from bs4 import BeautifulSoup
 from datetime import datetime
 import email.utils as eut
+import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUT_PATH = os.path.join(BASE_DIR, "krvs-feed", "krvs-interviews.xml")
+OUTPUT_PATH = os.path.join(BASE_DIR, "krvs-interviews.xml")
 URL = "https://www.krvs.org/podcast/interviews-from-bonjour-louisiane-on-krvs"
 
 def fetch_episodes():
